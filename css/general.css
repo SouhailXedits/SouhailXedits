@@ -39,6 +39,12 @@
 }
 
 
+.grid--3-cols{
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2.4rem;
+  margin-bottom: 2rem;
+}
+
 .raduis-and-shadow {
   padding: 2.4rem;
   border-radius: 20px;
@@ -49,6 +55,13 @@
   display: flex;
   flex-direction: column;
   gap: 2rem;
+
+}
+
+@media (max-width: 400px) {
+  .feed-account-infos {
+    width: 100;
+  }
 }
 
 input:focus {
@@ -57,4 +70,18 @@ input:focus {
 
 textarea:focus {
   outline: none;
+}
+
+.hidden {
+  display: none;
+}
+
+.main-header {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin: 3rem 0;
+}
+
+.main-page-active {
+  display: bloc !important;
 }

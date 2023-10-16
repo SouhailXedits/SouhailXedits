@@ -410,3 +410,206 @@
     border: none;
     background-color: transparent;
 }
+
+
+
+/* ************************* */
+/* followers page */
+/* ************************* */
+
+
+.follower-container {
+    display: grid;
+    grid-template-columns: 56px 1fr 66px;
+    padding: 24px 16px 24px 24px;
+    align-items: center;
+}
+
+.follower-img {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.follower-name-and-position {
+    padding-left: 10px;
+}
+  
+.follower-name {
+    font-size: 1.4rem;
+    font-weight: 600;
+  }
+  
+.follower-position {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+  }
+  
+.follower-position-text {
+    font-size: 1.4rem;
+    color: #888;
+  }
+  
+.action-follow-btn {
+    border: 1px solid #c5c5c5;
+    background-color: transparent;
+    border-radius: 10px;
+    height: 3rem;
+    font-weight: 600;
+  }
+
+
+/* ******************* */
+/* friends section */
+/* ******************* */
+
+.friend-main-container {
+    position: relative;
+}
+
+
+.friend-menu-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: transparent;
+    border: none;
+
+}
+
+.friend-main-infos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 4rem 0;
+}
+
+.friend-photo-main {
+    height: 6.4rem;
+    width: 6.4rem;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+.friend-name {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.friend-job {
+    font-size: 14px;
+    color: #637381;
+}
+
+.friend-social-media {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+/* ******************* */
+/* photos gallery */
+/* ******************* */
+
+
+.gallery-photo {
+    border-radius: 1.6rem;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.548),rgba(255, 255, 255, 0.255)), url('../../public/images/scroll-page/photos-gallery/cover_1.jpg');
+    padding: 20px;
+    min-height: 36rem;
+    position: relative;
+}
+
+.gallery-photo-menu-container {
+    background-color: transparent;
+    border: none;
+}
+
+.gallery-photo-menu {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+
+.gallery-photo-discription {
+    color: #f4f6f8;
+    font-size: 16px;
+    font-weight: 600;
+    position: absolute;
+    bottom: 40px;
+    left: 20px;
+}
+
+.photo-date-add {
+    font-size: 12px;
+    color: #c5c5c5;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+
+
+@media (max-width: 900px) {
+    .scroll-page {
+        grid-template-columns: 1fr !important;
+    }
+    .my-infos-profile{
+        position:static !important;
+        flex-direction: column;
+        justify-content: center;
+        gap: 4rem;
+    }
+    .my-profile-infos {
+        display: flex;
+        justify-content: center;
+    }
+    .profile-photo {
+        height: 6.6rem;
+        width: 6.6rem;
+    }
+    .my-profile-tablist {
+        justify-content: center;
+        overflow: scroll;
+    }
+    .followers-container {
+        grid-template-columns: 1fr 1fr !important;
+    }
+
+    .friends-main-page-container {
+        grid-template-columns: 1fr 1fr !important;
+    }
+    .photos-gallery-container {
+        grid-template-columns: 1fr 1fr !important;
+    }
+    
+    
+}
+
+@media (max-width: 600px) {
+    .followers-container {
+        grid-template-columns: 1fr !important;
+    }
+    .friends-main-page-container {
+        grid-template-columns: 1fr !important;
+    }
+    .photos-gallery-container {
+        grid-template-columns: 1fr !important;
+    }
+    .my-profile-tablist {
+        justify-content: flex-start;
+        padding: 5px;
+    }
+}
+
+@media (max-width: 400px) {
+    .create-post-actions {
+        flex-direction: column;
+        gap: 2rem;
+    }
+}
