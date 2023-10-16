@@ -1,1 +1,40 @@
 .json
+# Compiled files
+/dist/
+/build/
+/bin/
+/out/
+
+package-lock.json
+yarn.lock
+
+logs/
+*.log
+
+node_modules
+.DS_Store
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Java
+target/
+.classpath
+.project
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE and Editor-specific files
+.idea/
+.vscode/
+*.swp
+# Log files
+*.log
+
+# Debug output
+debug/
+
+.cache/

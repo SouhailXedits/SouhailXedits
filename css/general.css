@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    -webkit-font-smoothing: antialiased;
+    font-size: 62.5%;
+    overflow-x: hidden;
+  }
+  
+  body {
+    font-family: "Public Sans", sans-serif;
+    line-height: 1;
+    font-weight: 400;
+    color: #212b36;
+  
+    overflow-x: hidden;
+  }
+  
+  .container {
+    max-width: 125rem;
+    padding: 0 1rem;
+    margin: 0 auto;
+}
+
+.grid {
+  display: grid;
+}
+
+
+
+.grid--2-cols {
+  grid-template-columns: repeat(2, 1fr);
+}
+.grid--2-cols--feed {
+  grid-template-columns: 30% 1fr;
+}
+
+
+.raduis-and-shadow {
+  padding: 2.4rem;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.05);
+}
+
+.feed-account-infos {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+input:focus {
+  outline: none;
+}
+
+textarea:focus {
+  outline: none;
+}

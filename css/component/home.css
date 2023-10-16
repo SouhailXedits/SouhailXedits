@@ -1,0 +1,412 @@
+.icon {
+  height: 25px;
+  width: 25px;
+}
+
+.tools-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 4rem;
+}
+
+.tools-bar-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.profile-picture-icon {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+
+.user-dashboard,
+.my-profile-infos {
+  border-radius: 20px;
+}
+
+.dashboard-tab {
+  color: #637381;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-right: 4rem;
+  background-color: #fff;
+  border: none;
+  padding: 1.2rem 0;
+}
+
+.dashboard-tab .icon {
+  opacity: 0.5;
+}
+
+.dashboard-tab--active {
+  border-bottom: 2px solid #212b36;
+  color: #212b36;
+}
+.dashboard-tab--active .icon {
+  opacity: 1;
+}
+
+.my-profile-tablist {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #fff;
+  border-radius: 0 0px 20px 20px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+}
+
+.dashboard-btn-tab-text {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.my-infos-profile {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  z-index: 1;
+  bottom: 2.4rem;
+  left: 2.4rem;
+}
+
+.my-profile-infos {
+  background-image: url("../../public/images/home/main/my-profile/cover-photo.jpg");
+  height: 40rem;
+  position: relative;
+}
+.name-job {
+  margin: 0 0 0 2.4rem;
+}
+.user-full-name {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #fff;
+}
+.user-job {
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: #fff;
+  line-height: 1.5;
+  margin-top: 1rem;
+}
+
+.profile-photo {
+  height: 13rem;
+  width: 13rem;
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+
+/********************************/
+/********************************/
+/********************************/
+
+.followers-scroll-page {
+  display: flex;
+  justify-content: space-around;
+}
+
+.number-followers,
+.number-following {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.number-followers {
+  border-right: 2px dotted #c5c5c5;
+}
+
+.number-followers-number,
+.number-following-number {
+  font-size: 2.4rem;
+  font-weight: 700;
+}
+.number-followers-text,
+.number-following-text {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #637381;
+}
+
+.scroll-page {
+  margin-top: 2.4rem;
+  display: flex;
+  gap: 2.4rem;
+}
+
+.about-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.account-infos-header {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.about-section-bio {
+  font-size: 1.4rem;
+  line-height: 1.5;
+}
+
+.icon-with-text {
+  font-size: 1.4rem;
+  display: flex;
+  align-items: center;
+  gap: 1.4rem;
+  text-decoration: none;
+  word-break: break-all;
+}
+
+.social-account-text,
+.text-bio-link {
+  text-decoration: none;
+  color: #212b36;
+  font-weight: 700;
+  word-break: break-all;
+}
+
+.feed-posts-scroll {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/********************************/
+/********************************/
+/********************************/
+
+.create-post {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.create-post {
+  width: 100%;
+}
+
+.create-text {
+  width: 100%;
+  border: 1px solid #c5c5c5;
+  border-radius: 10px;
+  padding: 10px;
+  resize: none;
+}
+
+.create-post-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-stream {
+  display: flex;
+  gap: 0.8rem;
+}
+
+.create-post-media {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  border: none;
+  border-radius: 20px;
+  padding: 8px;
+}
+
+.btn-post-text {
+  font-size: 14px;
+  font-weight: 600;
+  color: #637381;
+}
+
+.button-post {
+  color: #fff;
+  border: none;
+  background-color: #212b36;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+/* ******************** */
+
+.feed-post {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.feed-post-heading {
+  display: grid;
+  grid-template-columns: 56px 1fr 36px;
+  align-items: center;
+}
+
+.post-avatar-photo {
+  height: 40px;
+  width: 40px;
+  margin-right: 16px;
+  border-radius: 50%;
+}
+
+.poster-name {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.post-date {
+  font-size: 1.2rem;
+  color: #637381;
+}
+
+.post-poster-date {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.post-content-text {
+  font-size: 1.4rem;
+}
+
+.post-content-parent-image {
+  max-height: 42rem;
+  display: flex;
+  justify-content: center;
+}
+
+.post-content-image {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+/* ****************** */
+
+.post-users-reactions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.likes-and-likers{
+    display: flex;
+    gap: 1rem;
+}
+
+.number-likes-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.num-likes {
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.post-likers{
+    display: flex;
+    
+}
+.post-likers .post-avatar-photo:not(:first-child){
+    outline: 2px solid #fff;
+    margin-left: -22px;
+    
+}
+.post-likers .post-avatar-photo{
+    height: 3.5rem;
+    width: 3.5rem;
+    
+}
+
+
+
+
+
+.remaining-likes {
+    background-color: #c8fad6;
+    color: #206232;
+    font-size: 1.4rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* *************** */
+
+.feed-post-comments {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.feed-post-comment {
+    display: flex;
+
+}
+
+.feed-comment-infos {
+    background-color: #f4f6f8;
+    border-radius: 10px;
+    width: 100%;
+    padding: 15px;
+}
+
+.commentor-and-date {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.post-commentor-name {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.comment-text {
+    font-size: 14px;
+    color: #637381;
+    margin-top: 1rem;
+}
+
+.post-comment-date {
+    font-size: 12px;color: #c5c5c5;
+}
+
+/* *************** */
+
+.feed-comment-create {
+    display: grid;
+    grid-template-columns: 1fr 6rem;
+    align-items: center;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #c5c5c5;
+    padding: 10px;
+}
+
+.create-comment-text {
+    border: none;
+    height: 100%;
+}
+
+.btn-create-comment {
+    border: none;
+    background-color: transparent;
+}

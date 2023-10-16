@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="../../css/component/login.css" />
+    <link rel="stylesheet" href="../../css/general.css" />
+
+    <script
+      type="module"
+      src="../../js/Controllers/loginController.js"
+    ></script>
+    <script type="module" src="../../js/views/loginView.js"></script>
+  </head>
+  <body>
+    <div class="login-page grid grid--2-cols-login">
+      <div class="welcome-login">
+        <h2 class="welcome-login-header">Hi, Welcome back</h2>
+        <img
+          src="../../public/images/illustration/illustration_dashboard.png"
+          alt="illustration image"
+          class="illustration-img"
+        />
+      </div>
+      <form action="" class="login-form">
+        <h3 class="login-form-header">Sign in to Minimal</h3>
+        <p class="create-account">
+          <span class="new-user-text">New user?</span>
+          <a href="#" class="create-account-btn">Create an account</a>
+        </p>
+        <input
+          type="text"
+          placeholder="Email adress" 
+          class="input-field email-adress emial-adress--login"
+        />
+        <input
+          type="password"
+          placeholder="Password"
+          class="input-field password password--login"
+        />
+        <a href="#" class="forgot-password">Forgot password?</a>
+        <button class="login-btn">Login</button>
+      </form>
+    </div>
+  </body>
+</html>
