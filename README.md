@@ -1,7 +1,7 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 <p align="center">
  
-  <img src="https://github.com/rayen-creator/SouhailXedits/blob/main/code.gif" width="35%" height="250px">
+  <img src="https://github.com/SouhailXedits/SouhailXedits/blob/main/code.gif" width="35%" height="250px">
 </p>
 <h1 align="center">
 <a href="https://github.com/SouhailXedits">
