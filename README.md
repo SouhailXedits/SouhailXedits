@@ -66,10 +66,10 @@ Please feel free to clone projects or ask me anything if you think something cou
 ## :mag_right: Find me on
 
 <div align="center">
-  <a href="https://gitlab.com/SouhailXedits" target="_blank">
+  <a href="https://gitlab.com/souhail_edits" target="_blank">
    <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
-   <a href="https://stackoverflow.com/users/13732946/SouhailXedits">
+   <a href="https://stackoverflow.com/users/23298981/souhail-brahmi">
    <img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/souhail-brahmi-762773295/">
