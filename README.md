@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hey+there%2C+I%27m+Souhail;Developer" alt="Souhail Brahmi" /></a>
 <h1/> 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SouhailXedits.visitor-badge)
 [![Github](https://img.shields.io/github/followers/SouhailXedits?label=Follow&style=social)](https://github.com/)
 
 <h4 align="center">
