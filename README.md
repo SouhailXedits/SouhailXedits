@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hey+there%2C+I%27m+Souhail;Developer" alt="Souhail Brahmi" /></a>
 <h1/> 
 
-[![Github](https://img.shields.io/github/followers/SouhailXedits?label=Follow&style=social)](https://github.com/)
+<!-- [![Github](https://img.shields.io/github/followers/SouhailXedits?label=Follow&style=social)](https://github.com/) -->
 
 <h4 align="center">
 Hey Fellow < Developers/ > welcome to my github profile. <br>
