@@ -23,7 +23,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 
 <!--- 🔭 I’m currently studying at ESPRIT Higher School of Engineering-->
   
-- 🌱 I’m currently learning JavaScript Frameworks .
+- 🌱 I’m currently learning modern JavaScript Frameworks .
   
 - 👯 I’m looking to collaborate on open Source Project and to work .
   
