@@ -57,7 +57,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 
 ## :chart_with_upwards_trend: My GitHub Stats
    
- <a href="https://github.com/SouhailXedits"><img src="https://github-readme-stats.vercel.app/api?username=SouhailXedits&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="souhailXedits's GitHub stats" /></a> <a href="http://www.github.com/SouhailXedits"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SouhailXedits&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <a href="https://github.com/SouhailXedits"><img src="https://github-readme-stats.vercel.app/api?username=SouhailXedits&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="souhailXedits's GitHub stats" /></a> <a href="http://www.github.com/SouhailXedits"><img src="https://streak-stats.demolab.com?user=souhailXedits&theme=dark&border_radius=20&mode=weekly" alt="GitHub Streak" /></a>
  
    <a href="https://github.com/SouhailXedits" align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouhailXedits&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
