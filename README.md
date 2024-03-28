@@ -33,7 +33,7 @@ Please feel free to clone projects or ask me anything if you think something cou
 ## 🚀 Frameworks and Languages
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,bootstrap,react,next,express,nodejs,nestjs,ts,js,supabase,firebase" />
+    <img src="https://skillicons.dev/icons?i=express,react,nodejs,next,nestjs,sass,tailwindcss,bootstrap,html,css,ts,js,supabase,firebase" />
   </a>
 </p>
 
@@ -56,8 +56,10 @@ Please feel free to clone projects or ask me anything if you think something cou
 <p>
 
 ## :chart_with_upwards_trend: My GitHub Stats
-   
- <a href="https://github.com/SouhailXedits"><img src="https://github-readme-stats.vercel.app/api?username=SouhailXedits&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="souhailXedits's GitHub stats" /></a> <a href="http://www.github.com/SouhailXedits"><img src="https://streak-stats.demolab.com?user=souhailXedits&theme=dark&border_radius=20&mode=weekly" alt="GitHub Streak" /></a>
+<!--
+ <a href="https://github.com/SouhailXedits"><img src="https://github-readme-stats.vercel.app/api?username=SouhailXedits&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="souhailXedits's GitHub stats" /></a> 
+ -->
+<a href="http://www.github.com/SouhailXedits"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SouhailXedits&mode=weekly&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)" alt="GitHub Streak" /></a>
  
    <a href="https://github.com/SouhailXedits" align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouhailXedits&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
@@ -69,10 +71,10 @@ Please feel free to clone projects or ask me anything if you think something cou
   <a href="https://gitlab.com/souhail_edits" target="_blank">
    <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
-   <a href="https://stackoverflow.com/users/23298981/souhail-brahmi">
+   <a href="https://stackoverflow.com/users/23298981/souhail-brahmi" target="_blank">
    <img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/souhail-brahmi-762773295/">
+<a href="https://www.linkedin.com/in/souhailXedits" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
